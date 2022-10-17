@@ -1,8 +1,7 @@
 package com.bridgelabz.functionalprograms;
 
+import java.util.Scanner;
 
-    import java.io.InputStream;
-import java.util.*;
     public class Distance {
         public static void main(String[] args) {
             double x1;
