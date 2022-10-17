@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class TwoDArray {
     public static void main(String[] args) {
-        // initialize here.
+        
         int row, col, i, j;
         int[][] arr = new int[3][3];
         Scanner scan = new Scanner(System.in);
