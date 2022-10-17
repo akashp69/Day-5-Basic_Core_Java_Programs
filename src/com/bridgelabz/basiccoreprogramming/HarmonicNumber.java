@@ -2,7 +2,8 @@ package com.bridgelabz.basiccoreprogramming;
 
 import java.util.Scanner;
 
-public class HarmonicNumber {  public static void main(String[] args) {
+public class HarmonicNumber { 
+    public static void main(String[] args) {
     Scanner s = new Scanner(System.in);
     int N;
     double result=0.0;
